@@ -1,10 +1,36 @@
 nav {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	background-color: #00ffcc;
+	background-position: relative;
+}
+
+nav ul {
+  list-style-type: square;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: center;
+  width: auto;
+}
+
+nav ul li a {
+  display: block;
+  text-transform: uppercase;
+  padding: 8px; 
+  font-size: 16px ;
+  color:#000000;
+  font-family: 'Courier', sans-serif;
+}
+
+.main {
+	max-width: 960px;
 	text-align: center;
 	background-color: #cc0000;
 	font-size: 1.75em;
+	background-position: relative;
+    top: 0;
 	
 }
 
