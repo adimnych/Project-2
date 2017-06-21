@@ -1,19 +1,16 @@
 nav {
 	background-color: #00ffcc;
 }
-
 nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
-
 nav ul li {
   float: left;
   width: auto;
 }
-
 nav ul li a {
   display: block;
   text-transform: uppercase;
@@ -22,24 +19,19 @@ nav ul li a {
   color:#000000;
   font-family: 'Courier', sans-serif;
 }
-
 .main {
 	max-width: 960px;
 	text-align: center;
 	background-color: #cc0000;
 	font-size: 1em;
     top: 0;
-	
 }
-
 /*INDEX*/
-
 #Project2{
 	color: red;
     font-size: 25px;
     font-style: normal; 
 }
-
 body{
 	background-color:#0099ff;
 	background-position: left;
@@ -49,4 +41,13 @@ body{
 	padding: 0px;
 	width: 800px;
 	margin: 0 auto;
+}
+
+/*Resume*/
+#Resume{
+	color: red;
+    font-size: 25px;
+    font-style: normal; 
+
+
 }
