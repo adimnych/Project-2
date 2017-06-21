@@ -44,7 +44,7 @@ body{
 }
 
 /*Resume*/
-#Resume{
+.Resume{
 	color: red;
     font-size: 25px;
     font-style: normal; 
