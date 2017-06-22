@@ -1,10 +1,12 @@
+/*NAVIGATION BAR*/
 nav {
 	background-color: #00ffcc;
+	text-align: center;
 }
 nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+  width: 50%
+  margin-left: auto;
+  margin-right: auto;;
   overflow: hidden;
 }
 nav ul li {
@@ -15,26 +17,34 @@ nav ul li a {
   display: block;
   text-transform: uppercase;
   padding: 20px; 
-  font-size: 16px ;
+  font-size: 16px ;/
   color:#000000;
   font-family: 'Courier', sans-serif;
 }
-.main {
+.resumebody {
 	max-width: 960px;
 	text-align: center;
-	background-color: #cc0000;
+	background-color: #FF99FF;
 	font-size: 1em;
     top: 0;
 }
 /*INDEX*/
-#Project2{
+.Project, .Goals, .Aboutme{
 	color: red;
     font-size: 25px;
     font-style: normal; 
+    text-align: left;
 }
-body{
+.Project2{
+	text-align: left;
+	color: red;
+    font-size: 35px;
+    font-style: normal;
+}
+
+.mainbody{
 	background-color:#0099ff;
-	background-position: left;
+	background-position: center;
 	font-family: 'Courier', sans-serif;
 	text-align: left;
 	font-size: 22px;
@@ -43,11 +53,46 @@ body{
 	margin: 0 auto;
 }
 
+
 /*Resume*/
-.Resume{
+
+.resumemain{
+	margin: 0 auto; 
+    padding: 0; 
+    width: 1024px; 
+    text-align: left;
+}
+.resumebody {
+	max-width: 960px;
+	text-align: left;
+	background-color: #e699ff;
+	font-size: 1em;
+    top: 0;
+}
+.Education, .Computerskills, .Profeccient, .Work, .References{
+	color: red;
+	font-size: 20px;
+	font-style: normal;
+
+}
+.contact{
+	background-color: #ff3333;
+	font-size: 2.5em;
+	text-align: left;
+	margin: -5px;
+	padding: 0;
+}
+
+.h1{
 	color: red;
     font-size: 25px;
     font-style: normal; 
+}
 
-
+.contact{
+	background-color: #99ff66
+	font-size: 2.5em;
+	text-align: left;
+	margin: -5px;
+	padding: 0;
 }
