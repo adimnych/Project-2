@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 .mainbody{
-	background-color:#0099ff;
+	background-color:#0099df;
 	background-position: center;
 	font-family: 'Courier', sans-serif;
 	text-align: left;
@@ -51,6 +51,11 @@ nav ul li a {
 	padding: 0px;
 	width: 800px;
 	margin: 0 auto;
+}
+div .mainpage h3{
+  font-size: 200%;
+  text-align: center;
+  margin: auto;
 }
 
 div .mainpage ul li {
