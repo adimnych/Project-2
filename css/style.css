@@ -39,23 +39,11 @@ nav ul li {
     font-size: 35px;
     font-style: normal;
 }
-div .Goals
 div .Goals ul li {
 	font-size: 1.5em;
 	text-align: center;
 	margin: auto;
 	padding: 0;
-}
-}
-/*.mainbody{
-	background-color:#0099df;
-	background-position: center;
-	font-family: 'Courier', sans-serif;
-	text-align: center;
-	font-size: 22px;
-	padding: 0px;
-	width: 800px;
-	margin: 0 auto;*/
 }
 nav .project{
   font-size: 100%;
