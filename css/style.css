@@ -13,9 +13,7 @@ nav ul li {
   text-align: center;
   text-transform: uppercase;
   padding: 10px; 
-  font-size: 30px ;/
-  color:#000000;
-  font-family: 'Courier', sans-serif;
+  font-size: 30px ;
 }
 /********INDEX********/
 /* this is needed to center the navigation bar*/
@@ -68,8 +66,7 @@ div .mainpage h3{
   margin: auto;
 }
 div .mainpage ul li {
-	font-size: 140%
-	text-align: center;
+	font-size: 140%;
 	margin: auto;
 }
 .css {
@@ -79,7 +76,6 @@ div .mainpage ul li {
 	vertical-align: middle;
 }
 /*******RESUME*****/
-}
 .resumebody {
 	max-width: 1024px;
 	text-align: center;
@@ -115,3 +111,4 @@ nav .countries{
 	background-color: #00ffcc;
 	font-size: 1em;
     top: 0;
+}
