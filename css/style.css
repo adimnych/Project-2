@@ -70,14 +70,14 @@ div .css {
 	position:center;
 }
 /*Resume*/
-.resumemain{
+/*.resumemain{
 	margin: 0 auto; 
     padding: 0; 
     width: 1024px; 
     text-align: left;
-}
+}*/
 .resumebody {
-	max-width: 960px;
+	max-width: 1024px;
 	text-align: center;
 	background-color: #00ff99;
 	font-size: 1em;
@@ -103,7 +103,7 @@ div .css {
     font-style: normal; 
 }
 
-.contact, .Education, .Computerskills, .Profeccient, .Work, .References{
+.Education, .Computerskills, .Profeccient, .Work, .References{
 	color:black;
 	font-size: 1.5em;
 	text-align: center;
