@@ -22,11 +22,18 @@ nav ul li {
 .resumebody {
  	max-width: 960px;
     text-align: center;
-	background-color: #FF99FF;
+	background-color: #00ffcc;
 	font-size: 1em;
     top: 0;
  }
 
+.mainpage{
+ 	min-width: 960px;
+    text-align: center;
+	background-color: #00ffcc;
+	font-size: 1em;
+    top: 0;
+}
 .Project, .Goals, .Aboutme{
 	color: red;
     font-size: 25px;
@@ -38,7 +45,7 @@ nav ul li {
 .Project2{
 	text-align: center;
 	color: red;
-    font-size: 35px;
+    font-size: 30px;
     font-style: normal;
 }
 div .Goals ul li {
@@ -74,16 +81,9 @@ div .mainpage ul li {
 /*******RESUME*****/
 }
 .resumebody {
-	max-width: 960px;
-	text-align: center;
-	background-color: #FF99FF;
-	font-size: 1em;
-    top: 0;
-}
-.resumebody {
 	max-width: 1024px;
 	text-align: center;
-	background-color: #00ff99;
+	background-color: #00ffcc;
 	font-size: 1em;
     top: 0;
 }
@@ -100,4 +100,18 @@ div .mainpage ul li {
 .wraparound {
      width: 800px;
      margin: 0 auto;
+     background-color: #00ffcc;
 }
+nav .countries{
+  font-size: 100%;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  max-width: 960px;
+}
+.countries{
+ 	min-width: 960px;
+    text-align: center;
+	background-color: #00ffcc;
+	font-size: 1em;
+    top: 0;
