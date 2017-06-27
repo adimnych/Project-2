@@ -17,6 +17,7 @@ nav ul li {
   color:#000000;
   font-family: 'Courier', sans-serif;
 }
+/*INDEX*/
 .resumebody {
 	max-width: 960px;
 	text-align: center;
@@ -24,7 +25,6 @@ nav ul li {
 	font-size: 1em;
     top: 0;
 }
-/*INDEX*/
 .Project, .Goals, .Aboutme{
 	color: red;
     font-size: 25px;
@@ -32,12 +32,11 @@ nav ul li {
     text-align: left;
 }
 .Project2{
-	text-align: left;
+	text-align: center;
 	color: red;
     font-size: 35px;
     font-style: normal;
 }
-
 .mainbody{
 	background-color:#0099df;
 	background-position: center;
@@ -53,16 +52,12 @@ div .mainpage h3{
   text-align: center;
   margin: auto;
 }
-
 div .mainpage ul li {
 	font-size: 140%
 	text-align: center;
 	margin: auto;
 }
-
-
 /*Resume*/
-
 .resumemain{
 	margin: 0 auto; 
     padding: 0; 
