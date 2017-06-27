@@ -32,6 +32,7 @@ nav ul li {
     font-size: 25px;
     font-style: normal; 
     text-align: center;
+    background-color: #00ffcc;
 }
 .Project2{
 	text-align: center;
@@ -44,6 +45,7 @@ div .Goals ul li {
 	text-align: center;
 	margin: auto;
 	padding: 0;
+	background-color: #00ffcc;
 }
 nav .project{
   font-size: 100%;
@@ -71,13 +73,11 @@ div .css {
 	left: 50%;
 	margin: -50px 0px 0px -50px;
 }
-
 .css {
 	margin-left:auto;
 	margin-right:auto;
 	float :none;
 	vertical-align: middle;
-
 }
 /*******RESUME*****/
 }
@@ -117,11 +117,14 @@ div .contact .h1{
 
 .Education, .Computerskills, .Profeccient, .Work, .References{
 	color:black;
-	font-size: 1.5em;
+	font-size: 1em;
 	text-align: center;
 	margin: auto;
 	padding: 0;
 }
 
-
 /******Countries visisted****/
+.wraparound {
+     width: 800px;
+     margin: 0 auto;
+}
