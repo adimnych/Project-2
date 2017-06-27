@@ -5,15 +5,11 @@ nav {
 }
 nav ul {
   width: 50%;
-  display: block;
+  display: inline-block;
   overflow: hidden;
 }
-nav ul li {
-  float: center;
-  width: auto;
-}
 nav ul li a {
-  display: block;
+  display: inline-block;
   text-transform: uppercase;
   padding: 20px; 
   font-size: 16px ;/
