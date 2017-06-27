@@ -9,7 +9,7 @@ nav ul {
   overflow: hidden;
 }
 nav ul li {
-  float: left;
+  float: center;
   width: auto;
 }
 nav ul li a {
