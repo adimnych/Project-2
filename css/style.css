@@ -104,9 +104,9 @@ div .css {
 }
 
 .contact, .Education, .Computerskills, .Profeccient, .Work, .References{
-	background-color:black;
+	color:black;
 	font-size: 2.5em;
-	text-align: left;
+	text-align: center;
 	margin: -5px;
 	padding: 0;
 }
