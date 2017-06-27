@@ -67,6 +67,7 @@ div .mainpage ul li {
 }
 div .css {
 	max-width: 100%
+	position:center;
 }
 /*Resume*/
 .resumemain{
@@ -92,7 +93,7 @@ div .css {
 	background-color: #ff3333;
 	font-size: 2.5em;
 	text-align: left;
-	margin: -5px;
+	margin: -15px;
 	padding: 0;
 }
 
