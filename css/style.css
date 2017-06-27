@@ -41,11 +41,18 @@ nav ul li {
 	background-color:#0099df;
 	background-position: center;
 	font-family: 'Courier', sans-serif;
-	text-align: left;
+	text-align: center;
 	font-size: 22px;
 	padding: 0px;
 	width: 800px;
 	margin: 0 auto;
+}
+nav .project{
+  font-size: 100%;
+  text-align: center;
+  margin: auto;
+  position: relative;
+  max-width: 960px;
 }
 div .mainpage h3{
   font-size: 200%;
@@ -56,6 +63,10 @@ div .mainpage ul li {
 	font-size: 140%
 	text-align: center;
 	margin: auto;
+
+}
+div .css {
+	max-width: 100%
 }
 /*Resume*/
 .resumemain{
