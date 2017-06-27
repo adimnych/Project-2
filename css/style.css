@@ -53,6 +53,12 @@ nav ul li a {
 	margin: 0 auto;
 }
 
+div .mainpage ul li {
+	font-size: 140%
+	text-align: center;
+	margin: auto;
+}
+
 
 /*Resume*/
 
