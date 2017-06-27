@@ -18,7 +18,7 @@ nav ul li {
 /********INDEX********/
 /* this is needed to center the navigation bar*/
 .resumebody {
- 	max-width: 960px;
+ 	min-width: 960px;
     text-align: center;
 	background-color: #00ffcc;
 	font-size: 1em;
