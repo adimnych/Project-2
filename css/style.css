@@ -4,7 +4,7 @@ nav {
 	text-align: center;
 }
 nav ul {
-  width: 50%;
+  width: 100%;
   display: inline-block;
   overflow: hidden;
 }
@@ -20,12 +20,12 @@ nav ul li {
 /********INDEX********/
 /* this is needed to center the navigation bar*/
 .resumebody {
- -	max-width: 960px;
- -	text-align: center;
- -	background-color: #FF99FF;
- -	font-size: 1em;
- -    top: 0;
- -}
+ 	max-width: 960px;
+    text-align: center;
+	background-color: #FF99FF;
+	font-size: 1em;
+    top: 0;
+ }
 
 .Project, .Goals, .Aboutme{
 	color: red;
@@ -33,6 +33,7 @@ nav ul li {
     font-style: normal; 
     text-align: center;
     background-color: #00ffcc;
+
 }
 .Project2{
 	text-align: center;
@@ -64,15 +65,6 @@ div .mainpage ul li {
 	text-align: center;
 	margin: auto;
 }
-div .css {
-	display:block;
-	align-content: center;
-    margin: 0 auto;
-    position: absolute;
-	top: 50%;
-	left: 50%;
-	margin: -50px 0px 0px -50px;
-}
 .css {
 	margin-left:auto;
 	margin-right:auto;
@@ -94,25 +86,6 @@ div .css {
 	background-color: #00ff99;
 	font-size: 1em;
     top: 0;
-}
-.Education, .Computerskills, .Profeccient, .Work, .References{
-	color: red;
-	font-size: 20px;
-	font-style: normal;
-
-}
-.contact{
-	background-color: #ff3333;
-	font-size: 2.5em;
-	text-align: center;
-	margin: -15px;
-	padding: 0;
-}
-div .contact .h1{
-	color: red;
-    font-size: 25px;
-    font-style: normal; 
-    text-align: center;
 }
 
 .Education, .Computerskills, .Profeccient, .Work, .References{
