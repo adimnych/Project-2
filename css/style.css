@@ -19,7 +19,6 @@ nav ul li {
 /* this is needed to center the navigation bar*/
 .resumebody {
  	min-width: 960px;
-    text-align: center;
 	background-color: #00ffcc;
 	font-size: 1em;
     top: 0;
@@ -91,7 +90,6 @@ div .mainpage ul li {
 /*******RESUME*****/
 .resumebody {
 	min-width: 960px;
-	text-align: center;
 	background-color: #00ffcc;
 	font-size: 1em;
     top: 0;
@@ -99,8 +97,6 @@ div .mainpage ul li {
 
 .Education, .Computerskills, .Profeccient, .Work, .References{
 	color:black;
-	font-size: 1em;
-	text-align: center;
 	margin: auto;
 	padding: 0;
 }
