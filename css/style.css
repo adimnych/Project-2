@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+
 /******NAVIGATION BAR********/
 nav {
 	background-color: #00ffcc;
@@ -47,6 +49,7 @@ div .projectdescr ul li{
 .Project2{
 	text-align: center;
 	color: red;
+	font-family: 'Bree Serif', serif;
     font-size: 30px;
     font-style: normal;
 }
@@ -57,7 +60,12 @@ div .Goals ul li {
 	padding: 0;
 	background-color: #00ffcc;
 }
-
+img h1 .Resume{
+	position: absolute;
+    right: 400px;
+    top: 80px;
+    z-index: 0;
+}
 div .myinfo ul li{
 	font-size: 1.5em;
 	text-align: left;
@@ -92,14 +100,25 @@ div .mainpage ul li {
 	min-width: 960px;
 	background-color: #00ffcc;
 	font-size: 1em;
+	font-family: 'Bree Serif', serif;
     top: 0;
 }
 
-.Education, .Computerskills, .Profeccient, .Work, .References{
+.Education, .Computerskills, {
 	color:black;
 	margin: auto;
+	font-family: 'Bree Serif', serif;
 	padding: 0;
 }
+
+.Profeccient, .Work, .References{
+	color:black;
+	text-align: center;
+	margin: auto;
+	font-family: 'Bree Serif', serif;
+	padding: 0;
+}
+
 
 /******Countries visisted****/
 .wraparound {
@@ -110,6 +129,7 @@ div .mainpage ul li {
 nav .countries{
   font-size: 100%;
   text-align: center;
+
   margin: auto;
   position: relative;
   max-width: 960px;
@@ -118,5 +138,6 @@ nav .countries{
  	min-width: 960px;
 	background-color: #00ffcc;
 	font-size: 1em;
+	font-family: 'Bree Serif', serif;
     top: 0;
 }
