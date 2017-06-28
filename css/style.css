@@ -34,10 +34,15 @@ nav ul li {
 }
 .Project, .Goals, .Aboutme{
 	color: red;
-    font-size: 25px;
+	font-size: 20px;
     font-style: normal; 
     text-align: center;
     background-color: #00ffcc;
+}
+div .projectdescr ul li{
+	font-size: 1.5em;
+	text-align: left;
+	margin: auto;
 
 }
 .Project2{
@@ -48,10 +53,18 @@ nav ul li {
 }
 div .Goals ul li {
 	font-size: 1.5em;
-	text-align: center;
+	text-align: left;
 	margin: auto;
 	padding: 0;
 	background-color: #00ffcc;
+}
+
+div .myinfo ul li{
+	font-size: 1.5em;
+	text-align: left;
+	margin: auto;
+	color: red;
+
 }
 nav .project{
   font-size: 100%;
