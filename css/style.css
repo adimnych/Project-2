@@ -60,12 +60,11 @@ div .Goals ul li {
 	padding: 0;
 	background-color: #00ffcc;
 }
-img h1 .Resume{
-	position: absolute;
-    right: 400px;
-    top: 80px;
-    z-index: 0;
+img #Andy{
+	float: right;
+	margin-left:5em;
 }
+
 div .myinfo ul li{
 	font-size: 1.5em;
 	text-align: left;
